@@ -8,7 +8,7 @@ import Loaderpage from "./Loader/Loaderpage";
 function App() {
   return (
     <div className="Jk_app_container">
-        <Router basename="/Attendance_compiler">
+        <Router>
       <h1 className="text-5xl font-bold text-center underline">
         Compiler attendance report
       </h1>
